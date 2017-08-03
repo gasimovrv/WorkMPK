@@ -1,7 +1,7 @@
 package BLL;
 
 /**
- * Ошибки
+ * Свои исключения
  */
 public class BLLException extends Exception{
     private String message;
